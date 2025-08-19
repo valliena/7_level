@@ -1,7 +1,7 @@
 # 🕹️ Работа с удалёнными репозиториями (clone, pull, push)
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FiNmUyMnk3a21semhlZnpqYzNtczNjczhtMDl0cW13dHZtemQ5eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iFaPIqooUgZ2MkVNJI/giphy.webp" width="100"/>
+  <img src="https://media0.giphy.com/media/nn4FAqmnGul76gcdIg/200.webp" width=""/>
 </div>
 
 👾 **Предыстория:**
